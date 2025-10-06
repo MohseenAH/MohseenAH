@@ -32,8 +32,6 @@ Here are the technologies I work with:
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
-  <a href="https://moz.com/learn/seo" target="_blank"> <img src="https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Video_Editing-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Video Editing"/> </a>
 </p>
 
 ---
