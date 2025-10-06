@@ -32,8 +32,7 @@ Here are the technologies I work with:
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> </a>
   <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
-  <a href="https://moz.com/learn/seo" target="_blank"> <img src="https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Video_Editing-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Video Editing"/> </a>
+
 </p>
 
 ---
