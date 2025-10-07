@@ -44,7 +44,7 @@ Here are some of the projects I'm proud of.
 | :--- | :--- | :--- |
 | **Personal Portfolio** | A responsive personal website to showcase my skills and projects. | [Live Demo](https://mohseenalihawaldar.netlify.app/) • [Code](https://github.com/MohseenAH/My_Personal_Portfolio) |
 | **Weather Dashboard** | A real-time weather app using the OpenWeatherMap API to fetch and display data. | [Live Demo](https://weatherdashboard-by-mohseen.netlify.app/) • [Code](https://github.com/MohseenAH/WeatherDashBoard) |
-| **Netflix UI Clone** | A responsive clone of the Netflix landing page, built with pure HTML, CSS & JS. | [Live Demo](https://streamcore-mohseencloneui.netlify.app/) • [Code](https://github.com/your-username/StreamCore-Netflix-UI-Clone) | And Repo Deleted Sadly due to copyright Issue
+| **Netflix UI Clone** | A responsive clone of the Netflix landing page, built with pure HTML, CSS & JS. | [Live Demo](https://streamcore-mohseencloneui.netlify.app/)  | 
 
 ---
 
